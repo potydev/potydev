@@ -1,30 +1,28 @@
 <div align="center">
   
-  <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Poty;Fullstack+Web+Developer;Vue+%E2%80%A2+Laravel+%E2%80%A2+Supabase" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=6366f1&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Poty;Fullstack+Web+Developer" alt="Typing SVG" />
   
-  <!-- Animated Quote -->
-  <p align="center">
-    <i>"Code is like humor. When you have to explain it, it's bad."</i> 💻✨
+  <p align="center" style="margin: 20px 0;">
+    <i style="color: #94a3b8;">"Kadang error-nya di kode, kadang di hidup"</i>
   </p>
-  
-  <!-- Animated SVG Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome!&fontSize=42&fontColor=fff&animation=twinkling" alt="Header"/>
   
 </div>
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
   
-  <!-- Animated Tech Stack with hover effects -->
-  <img src="https://img.shields.io/badge/Vue.js-3-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   
 </div>
 
@@ -33,13 +31,13 @@
 ### 🚀 Featured Projects
 
 <div align="center">
-  
-| Project | Description | Status |
-|---------|-------------|--------|
-| **KasirPoint** | POS system multi-role (Admin, Kasir, Waiter, Owner) | 🔗 [Demo](https://example.com) \| 📂 [Repo](https://github.com) |
-| **Smart Attendance** | QR Code + Location + Photo Proof Attendance System | 🔗 [Demo](https://example.com) \| 📂 [Repo](https://github.com) |
-| **UMKM Manager** | Inventory, transaction & sales reporting system | 🔗 [Demo](https://example.com) \| 📂 [Repo](https://github.com) |
-  
+
+| Project | Description | Repository |
+|---------|-------------|------------|
+| **Kodein** | Platform pembelajaran coding interaktif dengan sistem kursus, quiz, forum, dan leaderboard | [📂 Repo](https://github.com/potydev/Kodein.git) |
+| **Siap Kerja** | Platform untuk mempersiapkan karir dengan berbagai fitur pembelajaran | [📂 Repo](https://github.com/potydev/siap-kerja-potydev.git) |
+| **Admin WhatsApp AI** | Sistem admin untuk WhatsApp dengan integrasi AI | [📂 Repo](https://github.com/potydev/Admin-Whatsapp-ai.git) |
+
 </div>
 
 ---
@@ -48,15 +46,14 @@
 
 <div align="center">
   
-  <!-- GitHub Stats with dark theme -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=potydev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potydev&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=potydev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potydev&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
   
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.demolab.com/?user=potydev&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
   
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=potydev&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=potydev&theme=radical&hide_border=true" alt="GitHub Streak" />
   
 </div>
 
@@ -66,15 +63,17 @@
 
 <div align="center">
   
-  <!-- Social Links with animated icons -->
   <a href="https://potydev.cloud" target="_blank">
-    <img src="https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-6366f1?style=flat-square&logo=About.me&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://linkedin.com/in/username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/dapot-matthew-065707277/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://instagram.com/potyhi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:dapotmatthew02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
 </div>
@@ -83,17 +82,6 @@
 
 <div align="center">
   
-  <!-- Animated Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer"/>
-  
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=potydev&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-  
-  <!-- Interactive HTML Link -->
-  <p align="center">
-    <a href="https://potydev.github.io/potydev/overview.html" target="_blank">
-      <img src="https://img.shields.io/badge/🌐-View Interactive Profile-00D9FF?style=for-the-badge&logo=html5&logoColor=white" alt="Interactive Profile"/>
-    </a>
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=potydev&color=6366f1&style=flat-square" alt="Profile Views"/>
   
 </div>
