@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poty - GitHub Overview</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Animated Background -->
+    <div class="animated-bg">
+        <div class="stars"></div>
+        <div class="stars2"></div>
+        <div class="stars3"></div>
+    </div>
+
+    <!-- Main Container -->
+    <div class="container">
+        <!-- Header Section -->
+        <header class="header">
+            <div class="profile-picture">
+                <div class="profile-ring"></div>
+                <div class="profile-glow"></div>
+                <i class="fas fa-user-circle"></i>
+            </div>
+            <h1 class="typing-text" id="typingText"></h1>
+            <p class="subtitle">Fullstack Web Developer | Vue • Laravel • Supabase</p>
+            <div class="quote-container">
+                <i class="fas fa-quote-left quote-icon"></i>
+                <p class="quote" id="quoteText">"Code is like humor. When you have to explain it, it's bad."</p>
+                <i class="fas fa-quote-right quote-icon"></i>
+            </div>
+        </header>
+
+        <!-- Stats Section -->
+        <section class="stats-section">
+            <div class="stats-grid">
+                <div class="stat-card" data-stat="repos">
+                    <div class="stat-icon"><i class="fab fa-github"></i></div>
+                    <div class="stat-value" id="repoCount">0</div>
+                    <div class="stat-label">Repositories</div>
+                </div>
+                <div class="stat-card" data-stat="stars">
+                    <div class="stat-icon"><i class="fas fa-star"></i></div>
+                    <div class="stat-value" id="starCount">0</div>
+                    <div class="stat-label">Stars</div>
+                </div>
+                <div class="stat-card" data-stat="commits">
+                    <div class="stat-icon"><i class="fas fa-code-commit"></i></div>
+                    <div class="stat-value" id="commitCount">0</div>
+                    <div class="stat-label">Commits</div>
+                </div>
+                <div class="stat-card" data-stat="followers">
+                    <div class="stat-icon"><i class="fas fa-users"></i></div>
+                    <div class="stat-value" id="followerCount">0</div>
+                    <div class="stat-label">Followers</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Tech Stack Section -->
+        <section class="tech-section">
+            <h2 class="section-title">
+                <span class="title-icon"><i class="fas fa-tools"></i></span>
+                Tech Stack
+            </h2>
+            <div class="tech-grid">
+                <div class="tech-item" data-tech="vue">
+                    <i class="fab fa-vuejs"></i>
+                    <span>Vue.js</span>
+                </div>
+                <div class="tech-item" data-tech="laravel">
+                    <i class="fab fa-laravel"></i>
+                    <span>Laravel</span>
+                </div>
+                <div class="tech-item" data-tech="supabase">
+                    <i class="fas fa-database"></i>
+                    <span>Supabase</span>
+                </div>
+                <div class="tech-item" data-tech="mysql">
+                    <i class="fas fa-database"></i>
+                    <span>MySQL</span>
+                </div>
+                <div class="tech-item" data-tech="node">
+                    <i class="fab fa-node-js"></i>
+                    <span>Node.js</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section class="projects-section">
+            <h2 class="section-title">
+                <span class="title-icon"><i class="fas fa-rocket"></i></span>
+                Featured Projects
+            </h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-header">
+                        <h3>KasirPoint</h3>
+                        <div class="project-badge">POS System</div>
+                    </div>
+                    <p class="project-desc">Multi-role POS system (Admin, Kasir, Waiter, Owner)</p>
+                    <div class="project-links">
+                        <a href="#" class="project-link"><i class="fas fa-external-link-alt"></i> Demo</a>
+                        <a href="#" class="project-link"><i class="fab fa-github"></i> Repo</a>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-header">
+                        <h3>Smart Attendance</h3>
+                        <div class="project-badge">Attendance</div>
+                    </div>
+                    <p class="project-desc">QR Code + Location + Photo Proof Attendance System</p>
+                    <div class="project-links">
+                        <a href="#" class="project-link"><i class="fas fa-external-link-alt"></i> Demo</a>
+                        <a href="#" class="project-link"><i class="fab fa-github"></i> Repo</a>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-header">
+                        <h3>UMKM Manager</h3>
+                        <div class="project-badge">Management</div>
+                    </div>
+                    <p class="project-desc">Inventory, transaction & sales reporting system</p>
+                    <div class="project-links">
+                        <a href="#" class="project-link"><i class="fas fa-external-link-alt"></i> Demo</a>
+                        <a href="#" class="project-link"><i class="fab fa-github"></i> Repo</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Social Links Section -->
+        <section class="social-section">
+            <h2 class="section-title">
+                <span class="title-icon"><i class="fas fa-link"></i></span>
+                Let's Connect
+            </h2>
+            <div class="social-grid">
+                <a href="https://potydev.cloud" target="_blank" class="social-link" data-social="website">
+                    <div class="social-icon"><i class="fas fa-globe"></i></div>
+                    <span>Website</span>
+                </a>
+                <a href="https://linkedin.com/in/username" target="_blank" class="social-link" data-social="linkedin">
+                    <div class="social-icon"><i class="fab fa-linkedin"></i></div>
+                    <span>LinkedIn</span>
+                </a>
+                <a href="mailto:yourmail@gmail.com" class="social-link" data-social="email">
+                    <div class="social-icon"><i class="fas fa-envelope"></i></div>
+                    <span>Email</span>
+                </a>
+                <a href="https://github.com/potydev" target="_blank" class="social-link" data-social="github">
+                    <div class="social-icon"><i class="fab fa-github"></i></div>
+                    <span>GitHub</span>
+                </a>
+            </div>
+        </section>
+
+        <!-- GitHub Stats Embed -->
+        <section class="github-stats-section">
+            <h2 class="section-title">
+                <span class="title-icon"><i class="fas fa-chart-line"></i></span>
+                GitHub Statistics
+            </h2>
+            <div class="stats-embed">
+                <img src="https://github-readme-stats.vercel.app/api?username=potydev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" class="github-stats-img">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potydev&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" class="github-stats-img">
+            </div>
+        </section>
+    </div>
+
+    <!-- Floating Particles -->
+    <div class="particles"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
