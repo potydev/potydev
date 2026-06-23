@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Anime.gif at the very top -->
-  <img src="assets/Anime.gif" width="600" alt="Anime Banner" style="border-radius: 12px; max-width: 100%; box-shadow: 0 8px 32px rgba(255, 117, 160, 0.35);" />
+  <img src="assets/Anime1.gif" width="600" alt="Anime Banner" style="border-radius: 12px; max-width: 100%; box-shadow: 0 8px 32px rgba(255, 117, 160, 0.35);" />
 
   <br/><br/>
 
@@ -35,7 +35,7 @@
     </td>
     <td valign="top" width="45%" align="center" style="border: none;">
       <!-- Anime1.gif on the right for elegant visual balance -->
-      <img src="assets/Anime1.gif" width="280" alt="Anime Character" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); border: 2px solid #ff75a0;" />
+      <img src="assets/Anime.gif" width="280" alt="Anime Character" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); border: 2px solid #ff75a0;" />
     </td>
   </tr>
 </table>
