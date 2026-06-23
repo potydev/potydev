@@ -11,8 +11,8 @@
   </a>
 
   <p align="center" style="margin: 15px 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    <i style="color: #ff75a0; font-size: 1.15em; font-weight: 500;">「 コードのエラー、人生のエラー。どちらもデバッグするだけ。 」</i><br/>
-    <span style="color: #8892b0; font-size: 0.95em;">"Kadang error-nya di kode, kadang di hidup. Tetap semangat!"</span>
+    <i style="color: #ff75a0; font-size: 1.15em; font-weight: 500;">「 ワンピースは実在する！ 」</i><br/>
+    <span style="color: #8892b0; font-size: 0.95em;">"ONE PIECE IS REALL"</span>
   </p>
 
 </div>
