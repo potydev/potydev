@@ -9,7 +9,7 @@
   <a href="https://github.com/potydev">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=ff75a0&center=true&vCenter=true&width=500&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%81Poty%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%B8%E2%9C%A8;Hi+%F0%9F%91%8B%2C+I'm+Poty;Fullstack+Web+Developer" alt="Typing SVG" />
   </a>
-tes
+
   <p align="center" style="margin: 15px 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     <i style="color: #ff75a0; font-size: 1.15em; font-weight: 500;">「 ワンピースは実在する！ 」</i><br/>
     <span style="color: #8892b0; font-size: 0.95em;">"ONE PIECE IS REALL"</span>
